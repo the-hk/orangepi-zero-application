@@ -1,0 +1,3 @@
+/root/hamza/Application/build/CMakeFiles/rebuild_cache.dir
+/root/hamza/Application/build/CMakeFiles/network_project.dir
+/root/hamza/Application/build/CMakeFiles/edit_cache.dir
